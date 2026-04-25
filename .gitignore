@@ -1,0 +1,43 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Env files (IMPORTANT)
+.env
+.env.*
+
+# Firebase secrets
+google-services.json
+GoogleService-Info.plist
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+
+# iOS
+ios/Pods/
+
+# Native keys
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+
+# Typescript
+*.tsbuildinfo

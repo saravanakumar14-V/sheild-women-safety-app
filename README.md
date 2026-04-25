@@ -71,8 +71,6 @@ Unlike traditional apps, SHEiLD:
 ### 👥 Contacts
 ![Contacts](assets/screenshots/contacts.png)
 
-### 🚨 Panic Alert
-![Panic](assets/screenshots/panic.png)
 ---
 
 ## 🎯 Future Scope

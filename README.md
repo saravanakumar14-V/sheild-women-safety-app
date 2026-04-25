@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+🔷 SHEiLD – Smart Women Safety System
+🚨 Overview
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SHEiLD is an intelligent women safety mobile application designed to provide real-time protection using emergency alerts, live location tracking, and threat detection.
 
-## Get started
+💡 Problem Statement
 
-1. Install dependencies
+Women safety remains a major concern. Existing apps are:
 
-   ```bash
-   npm install
-   ```
+Slow to access during emergencies
+Limited to basic SOS features
+Lack real-time threat awareness
+🚀 Our Solution
 
-2. Start the app
+SHEiLD provides:
 
-   ```bash
-   npx expo start
-   ```
+🔴 One-tap PANIC system
+📍 Real-time location sharing
+🗺️ Smart safety map (heat zones)
+📩 Instant SMS alerts
+📊 Threat-level detection system
+👥 Emergency contact integration
+🧠 Key Innovation
 
-In the output, you'll find options to open the app in a
+Unlike traditional apps, SHEiLD:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Uses dynamic threat states (SAFE → THREAT → EMERGENCY)
+Integrates map-based safety visualization
+Provides quick-access UI (no delay in panic)
+🛠️ Tech Stack
+React Native (Expo)
+Firebase Authentication
+MapLibre + OpenStreetMap
+SMS integration
+Location Services
+📱 Features
+Panic Button 🚨
+Live Location Tracking 📍
+Emergency SMS Alerts 📩
+Activity Monitoring 📜
+Contact Management 👥
+Safety Heatmap 🗺️
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+🎯 Future Scope
+AI-based threat prediction
+Community-driven danger zones
+Voice-trigger emergency system
+👨‍💻 Developer
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Saravana Kumar

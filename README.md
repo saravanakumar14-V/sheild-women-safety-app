@@ -63,7 +63,7 @@ Unlike traditional apps, SHEiLD:
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](assets/screenshots/home.png)
+![Home](assets/screenshots/Home.png)
 
 ### 🗺️ Map View
 ![Map](assets/screenshots/map.png)
